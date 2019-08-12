@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\C++Workspace\WindowsSocket\UDPServer\main.cpp(19,1): warning C4996:  'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message :  参见“inet_ntoa”的声明
+  UDPServer.vcxproj -> E:\C++Workspace\WindowsSocket\UDPServer\Debug\UDPServer.exe
